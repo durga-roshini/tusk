@@ -1,10 +1,12 @@
 print("hello world")
 #odd or even
-if int(input())%2==0:
+n=int(input())
+if n%2==0:
   print("even")
 else:
   print("odd")
   
-  
-  
+print(n%2)
+
+#done changes
 #thank you :)
