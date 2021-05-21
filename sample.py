@@ -7,4 +7,6 @@ else:
   print("odd")
   
 print(n%2)
+
+#done changes
 #thank you :)
